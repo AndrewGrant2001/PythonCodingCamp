@@ -1,0 +1,870 @@
+Milwaukee Bucks,72,392,Indiana Pacers,76,179
+Boston Celtics,79,276,Houston Rockets,62,430
+Philadelphia 76ers,106,898,Memphis Grizzlies,119,490
+Portland Trail Blazers,88,591,Utah Jazz,68,765
+LA Clippers,70,825,Toronto Raptors,120,949
+New York Knicks,79,569,Phoenix Suns,68,148
+Dallas Mavericks,78,639,Portland Trail Blazers,93,432
+Brooklyn Nets,62,881,Chicago Bulls,82,131
+Brooklyn Nets,83,972,Washington Wizards,86,349
+Oklahoma City Thunder,104,738,Houston Rockets,70,180
+Dallas Mavericks,105,168,Indiana Pacers,113,642
+Portland Trail Blazers,92,836,Detroit Pistons,108,614
+Orlando Magic,68,671,Atlanta Hawks,85,110
+New Orleans Pelicans,81,333,Golden State Warriors,95,247
+Charlotte Hornets,108,566,Portland Trail Blazers,67,169
+New York Knicks,65,372,Minnesota Timberwolves,60,472
+Charlotte Hornets,61,697,Detroit Pistons,112,161
+San Antonio Spurs,117,569,Memphis Grizzlies,95,365
+Atlanta Hawks,107,774,Denver Nuggets,117,194
+Chicago Bulls,88,400,Dallas Mavericks,119,937
+Memphis Grizzlies,75,672,Golden State Warriors,92,646
+Indiana Pacers,114,306,Houston Rockets,68,260
+Denver Nuggets,94,906,Washington Wizards,103,764
+Charlotte Hornets,109,112,Orlando Magic,114,575
+Charlotte Hornets,110,803,Phoenix Suns,71,774
+Orlando Magic,106,638,Utah Jazz,113,904
+Orlando Magic,103,622,New Orleans Pelicans,75,356
+Atlanta Hawks,81,257,Chicago Bulls,73,985
+Washington Wizards,108,436,Milwaukee Bucks,87,372
+Miami Heat,75,942,Orlando Magic,112,112
+Los Angeles Lakers,114,985,Golden State Warriors,80,492
+Houston Rockets,85,835,Oklahoma City Thunder,100,748
+Dallas Mavericks,74,738,Detroit Pistons,71,404
+Milwaukee Bucks,61,426,Washington Wizards,82,411
+Phoenix Suns,81,124,Denver Nuggets,107,393
+LA Clippers,69,762,Atlanta Hawks,115,265
+Indiana Pacers,99,373,New York Knicks,81,547
+Philadelphia 76ers,113,853,Phoenix Suns,99,397
+Toronto Raptors,81,565,LA Clippers,117,470
+Minnesota Timberwolves,94,885,New Orleans Pelicans,83,410
+Miami Heat,90,299,LA Clippers,82,403
+Houston Rockets,120,727,Philadelphia 76ers,93,886
+New York Knicks,85,222,Miami Heat,80,593
+Utah Jazz,109,742,New York Knicks,90,901
+Denver Nuggets,102,300,New Orleans Pelicans,101,817
+New Orleans Pelicans,68,167,New York Knicks,94,940
+Boston Celtics,103,882,Denver Nuggets,87,435
+Portland Trail Blazers,112,742,Toronto Raptors,103,864
+Minnesota Timberwolves,86,660,Milwaukee Bucks,90,138
+Memphis Grizzlies,118,874,Sacramento Kings,70,728
+Golden State Warriors,88,428,Milwaukee Bucks,101,951
+Chicago Bulls,77,642,Portland Trail Blazers,101,512
+LA Clippers,85,264,Brooklyn Nets,71,722
+Denver Nuggets,84,276,Charlotte Hornets,92,524
+Oklahoma City Thunder,75,339,Charlotte Hornets,91,504
+LA Clippers,97,676,Los Angeles Lakers,116,537
+Denver Nuggets,93,219,Los Angeles Lakers,94,598
+Miami Heat,82,884,Indiana Pacers,108,152
+Portland Trail Blazers,70,797,Milwaukee Bucks,72,561
+Utah Jazz,114,408,Milwaukee Bucks,107,671
+San Antonio Spurs,120,742,Portland Trail Blazers,88,789
+New Orleans Pelicans,98,487,Cleveland Cavaliers,65,143
+Milwaukee Bucks,97,632,Oklahoma City Thunder,81,878
+Denver Nuggets,99,121,Phoenix Suns,113,705
+Portland Trail Blazers,88,594,Golden State Warriors,106,933
+Milwaukee Bucks,103,469,Atlanta Hawks,81,813
+New Orleans Pelicans,83,826,Detroit Pistons,87,571
+Los Angeles Lakers,65,967,Toronto Raptors,120,241
+San Antonio Spurs,110,116,Denver Nuggets,98,130
+Utah Jazz,62,606,Sacramento Kings,79,867
+Brooklyn Nets,103,235,Cleveland Cavaliers,64,643
+Denver Nuggets,67,299,Indiana Pacers,97,767
+LA Clippers,69,544,Minnesota Timberwolves,81,806
+Toronto Raptors,117,453,Boston Celtics,62,486
+LA Clippers,116,441,Miami Heat,115,597
+Toronto Raptors,99,390,Denver Nuggets,65,462
+Dallas Mavericks,65,554,LA Clippers,84,229
+Boston Celtics,60,364,LA Clippers,81,238
+Denver Nuggets,89,433,Orlando Magic,100,274
+Oklahoma City Thunder,87,312,LA Clippers,73,584
+Chicago Bulls,102,480,New Orleans Pelicans,85,120
+Houston Rockets,114,972,Toronto Raptors,82,916
+New York Knicks,110,248,LA Clippers,70,247
+Houston Rockets,78,883,Golden State Warriors,64,200
+Indiana Pacers,85,591,Minnesota Timberwolves,63,735
+New York Knicks,96,708,Chicago Bulls,97,893
+Houston Rockets,60,797,Portland Trail Blazers,107,135
+Boston Celtics,105,182,Los Angeles Lakers,107,607
+Golden State Warriors,79,959,Detroit Pistons,86,389
+Phoenix Suns,64,580,Milwaukee Bucks,79,512
+Memphis Grizzlies,113,826,Los Angeles Lakers,78,660
+Houston Rockets,107,279,Boston Celtics,73,952
+Denver Nuggets,74,330,Dallas Mavericks,90,252
+New Orleans Pelicans,92,875,Portland Trail Blazers,60,872
+Toronto Raptors,65,326,Utah Jazz,104,757
+Cleveland Cavaliers,94,624,San Antonio Spurs,63,247
+Charlotte Hornets,94,352,Philadelphia 76ers,70,743
+Utah Jazz,111,310,Charlotte Hornets,66,428
+Phoenix Suns,75,952,Atlanta Hawks,64,993
+LA Clippers,106,280,San Antonio Spurs,109,452
+LA Clippers,116,280,Boston Celtics,113,816
+Phoenix Suns,66,522,Dallas Mavericks,114,503
+Detroit Pistons,95,607,Oklahoma City Thunder,60,799
+Miami Heat,113,215,Golden State Warriors,65,759
+Chicago Bulls,118,743,Toronto Raptors,117,399
+Los Angeles Lakers,66,897,Brooklyn Nets,104,372
+Indiana Pacers,90,476,Memphis Grizzlies,105,902
+Washington Wizards,66,614,Utah Jazz,98,268
+New Orleans Pelicans,103,188,Charlotte Hornets,79,232
+Orlando Magic,69,162,Chicago Bulls,100,256
+LA Clippers,116,510,Chicago Bulls,81,231
+Toronto Raptors,82,759,Brooklyn Nets,120,755
+Miami Heat,98,367,Washington Wizards,101,535
+Golden State Warriors,87,274,LA Clippers,80,694
+Golden State Warriors,119,466,Minnesota Timberwolves,104,979
+Phoenix Suns,67,323,Oklahoma City Thunder,64,877
+Dallas Mavericks,63,845,Charlotte Hornets,110,297
+New Orleans Pelicans,75,467,Los Angeles Lakers,72,585
+Minnesota Timberwolves,120,535,Indiana Pacers,110,931
+Atlanta Hawks,88,802,Washington Wizards,102,642
+Brooklyn Nets,86,889,Denver Nuggets,107,345
+Milwaukee Bucks,65,505,LA Clippers,100,847
+Dallas Mavericks,70,975,Memphis Grizzlies,100,225
+Phoenix Suns,60,175,Portland Trail Blazers,92,881
+Denver Nuggets,91,654,Milwaukee Bucks,82,173
+Utah Jazz,72,781,Minnesota Timberwolves,86,703
+Philadelphia 76ers,95,987,Denver Nuggets,112,508
+Phoenix Suns,98,780,Miami Heat,93,921
+Denver Nuggets,94,889,Golden State Warriors,100,114
+Portland Trail Blazers,67,338,Atlanta Hawks,108,505
+San Antonio Spurs,104,799,Indiana Pacers,95,468
+Indiana Pacers,110,485,Dallas Mavericks,70,887
+Orlando Magic,62,181,Toronto Raptors,110,148
+Cleveland Cavaliers,108,907,Denver Nuggets,67,594
+Boston Celtics,77,436,Miami Heat,67,521
+Charlotte Hornets,77,326,Milwaukee Bucks,75,902
+Sacramento Kings,112,384,Washington Wizards,71,813
+Toronto Raptors,115,200,Golden State Warriors,71,290
+Charlotte Hornets,114,829,LA Clippers,75,794
+San Antonio Spurs,72,669,Golden State Warriors,100,633
+Cleveland Cavaliers,109,436,Memphis Grizzlies,111,834
+Toronto Raptors,69,572,Miami Heat,79,997
+Chicago Bulls,97,532,Golden State Warriors,107,427
+Los Angeles Lakers,72,265,Utah Jazz,105,197
+Cleveland Cavaliers,105,587,Oklahoma City Thunder,89,123
+Miami Heat,113,249,Detroit Pistons,94,921
+Phoenix Suns,103,599,Sacramento Kings,68,740
+Oklahoma City Thunder,86,356,New Orleans Pelicans,100,267
+New Orleans Pelicans,97,570,Milwaukee Bucks,82,595
+Golden State Warriors,97,954,Charlotte Hornets,104,556
+Philadelphia 76ers,84,305,Oklahoma City Thunder,77,327
+Denver Nuggets,72,399,Boston Celtics,116,285
+Chicago Bulls,114,521,Milwaukee Bucks,120,190
+Dallas Mavericks,60,422,Miami Heat,110,642
+Minnesota Timberwolves,85,166,Orlando Magic,94,209
+Cleveland Cavaliers,69,196,Brooklyn Nets,87,531
+Portland Trail Blazers,93,663,Brooklyn Nets,100,499
+Denver Nuggets,74,971,San Antonio Spurs,105,924
+San Antonio Spurs,78,548,Charlotte Hornets,101,728
+Oklahoma City Thunder,99,709,Cleveland Cavaliers,101,700
+Los Angeles Lakers,65,549,Memphis Grizzlies,94,193
+Dallas Mavericks,77,305,Golden State Warriors,91,102
+LA Clippers,116,479,Phoenix Suns,114,160
+Milwaukee Bucks,75,507,Detroit Pistons,99,613
+Orlando Magic,66,845,Cleveland Cavaliers,100,111
+Philadelphia 76ers,64,656,Utah Jazz,65,908
+San Antonio Spurs,60,863,Milwaukee Bucks,68,770
+Atlanta Hawks,90,643,Cleveland Cavaliers,107,732
+New Orleans Pelicans,70,681,Houston Rockets,72,576
+Memphis Grizzlies,98,887,Detroit Pistons,67,840
+Minnesota Timberwolves,77,663,Denver Nuggets,76,510
+Dallas Mavericks,67,972,Cleveland Cavaliers,103,754
+Dallas Mavericks,71,566,Minnesota Timberwolves,79,711
+Dallas Mavericks,98,165,New Orleans Pelicans,112,376
+Golden State Warriors,80,183,Memphis Grizzlies,118,262
+Indiana Pacers,94,902,Philadelphia 76ers,87,381
+Memphis Grizzlies,73,186,Boston Celtics,119,867
+Milwaukee Bucks,70,177,Golden State Warriors,67,158
+Memphis Grizzlies,68,816,Utah Jazz,116,955
+Philadelphia 76ers,107,297,Detroit Pistons,110,718
+Brooklyn Nets,98,769,Boston Celtics,105,771
+Golden State Warriors,92,243,San Antonio Spurs,84,165
+Denver Nuggets,118,262,Oklahoma City Thunder,110,397
+Memphis Grizzlies,64,325,Miami Heat,111,992
+Chicago Bulls,91,935,New York Knicks,100,851
+Atlanta Hawks,112,985,Toronto Raptors,79,241
+Indiana Pacers,77,590,Toronto Raptors,95,991
+Sacramento Kings,90,651,Brooklyn Nets,103,572
+Miami Heat,74,227,Minnesota Timberwolves,66,940
+Portland Trail Blazers,82,711,Chicago Bulls,118,726
+Miami Heat,87,149,Atlanta Hawks,74,346
+Brooklyn Nets,94,998,Detroit Pistons,74,727
+Golden State Warriors,97,954,Boston Celtics,84,825
+Orlando Magic,105,865,New York Knicks,110,339
+Indiana Pacers,73,746,Miami Heat,113,990
+Memphis Grizzlies,82,413,Oklahoma City Thunder,97,148
+Atlanta Hawks,103,317,San Antonio Spurs,69,851
+Detroit Pistons,103,252,Dallas Mavericks,110,258
+Houston Rockets,72,227,New Orleans Pelicans,118,829
+Oklahoma City Thunder,79,927,Los Angeles Lakers,106,156
+Chicago Bulls,107,929,Cleveland Cavaliers,85,214
+Oklahoma City Thunder,118,288,Atlanta Hawks,98,190
+LA Clippers,60,420,Golden State Warriors,91,197
+Houston Rockets,113,701,Charlotte Hornets,85,846
+Minnesota Timberwolves,85,645,Phoenix Suns,90,813
+Cleveland Cavaliers,78,480,Indiana Pacers,65,733
+Minnesota Timberwolves,90,168,Oklahoma City Thunder,109,665
+Atlanta Hawks,93,197,Memphis Grizzlies,60,193
+Phoenix Suns,98,119,New Orleans Pelicans,84,485
+Houston Rockets,78,868,Orlando Magic,80,866
+Cleveland Cavaliers,114,642,Milwaukee Bucks,116,285
+Golden State Warriors,87,548,New York Knicks,68,325
+Indiana Pacers,75,819,Boston Celtics,61,765
+Indiana Pacers,60,444,New Orleans Pelicans,87,789
+Phoenix Suns,102,529,Charlotte Hornets,94,223
+Phoenix Suns,69,608,New York Knicks,118,197
+Boston Celtics,84,786,Brooklyn Nets,95,541
+Atlanta Hawks,114,255,Sacramento Kings,85,759
+Washington Wizards,94,396,Los Angeles Lakers,96,927
+San Antonio Spurs,82,193,Atlanta Hawks,92,522
+Golden State Warriors,99,982,Toronto Raptors,74,432
+New Orleans Pelicans,73,710,Boston Celtics,75,877
+Dallas Mavericks,106,145,Brooklyn Nets,102,457
+Detroit Pistons,64,750,Los Angeles Lakers,103,938
+Chicago Bulls,88,809,Boston Celtics,81,319
+Philadelphia 76ers,114,916,Charlotte Hornets,103,825
+Charlotte Hornets,103,877,Chicago Bulls,113,239
+Washington Wizards,79,812,Atlanta Hawks,69,185
+Washington Wizards,72,558,Houston Rockets,114,876
+Atlanta Hawks,104,131,LA Clippers,61,260
+Indiana Pacers,108,981,Atlanta Hawks,100,635
+New Orleans Pelicans,101,602,Memphis Grizzlies,85,856
+Dallas Mavericks,107,408,Philadelphia 76ers,72,350
+Minnesota Timberwolves,86,353,New York Knicks,100,920
+Denver Nuggets,103,969,Miami Heat,107,491
+Toronto Raptors,64,979,Dallas Mavericks,109,328
+Minnesota Timberwolves,114,265,Philadelphia 76ers,60,560
+Portland Trail Blazers,120,672,Boston Celtics,107,471
+Brooklyn Nets,82,857,Philadelphia 76ers,76,900
+Oklahoma City Thunder,82,225,Orlando Magic,110,330
+Philadelphia 76ers,82,547,Portland Trail Blazers,104,786
+Brooklyn Nets,80,788,Toronto Raptors,84,231
+New York Knicks,91,531,Indiana Pacers,92,932
+Orlando Magic,110,885,Brooklyn Nets,105,577
+Dallas Mavericks,101,926,Toronto Raptors,91,638
+Portland Trail Blazers,78,926,Indiana Pacers,73,888
+Boston Celtics,66,840,Charlotte Hornets,96,368
+Cleveland Cavaliers,70,181,LA Clippers,110,787
+Minnesota Timberwolves,98,669,Washington Wizards,83,872
+Dallas Mavericks,96,745,Denver Nuggets,72,753
+LA Clippers,87,161,Portland Trail Blazers,74,907
+Boston Celtics,101,698,Portland Trail Blazers,106,872
+Utah Jazz,107,100,Brooklyn Nets,109,133
+Phoenix Suns,75,847,San Antonio Spurs,63,954
+Sacramento Kings,63,974,San Antonio Spurs,69,498
+Milwaukee Bucks,80,992,Chicago Bulls,105,892
+Boston Celtics,82,588,Philadelphia 76ers,100,346
+Oklahoma City Thunder,93,199,San Antonio Spurs,84,781
+New Orleans Pelicans,85,451,Minnesota Timberwolves,119,332
+Detroit Pistons,100,904,Brooklyn Nets,114,131
+Toronto Raptors,100,812,Portland Trail Blazers,86,505
+New Orleans Pelicans,67,877,Chicago Bulls,64,666
+Detroit Pistons,100,783,Houston Rockets,92,962
+Atlanta Hawks,62,997,Charlotte Hornets,81,922
+LA Clippers,106,409,Charlotte Hornets,94,912
+Memphis Grizzlies,102,707,San Antonio Spurs,120,404
+Indiana Pacers,82,621,LA Clippers,108,381
+Oklahoma City Thunder,112,947,Philadelphia 76ers,62,640
+Memphis Grizzlies,86,965,Indiana Pacers,93,502
+Toronto Raptors,88,971,Atlanta Hawks,90,357
+Milwaukee Bucks,104,720,Sacramento Kings,107,489
+Detroit Pistons,113,208,Boston Celtics,62,456
+Chicago Bulls,72,469,Miami Heat,76,350
+Milwaukee Bucks,107,894,Brooklyn Nets,119,775
+Golden State Warriors,115,948,Philadelphia 76ers,82,690
+Houston Rockets,114,804,Dallas Mavericks,91,572
+Dallas Mavericks,65,779,Los Angeles Lakers,81,476
+Utah Jazz,69,173,Chicago Bulls,83,481
+Sacramento Kings,86,301,Miami Heat,72,598
+Indiana Pacers,107,820,Golden State Warriors,118,556
+Detroit Pistons,78,445,New Orleans Pelicans,94,529
+Oklahoma City Thunder,96,852,Detroit Pistons,103,572
+Toronto Raptors,81,419,San Antonio Spurs,87,296
+Oklahoma City Thunder,101,902,Chicago Bulls,85,122
+Orlando Magic,95,832,Dallas Mavericks,84,575
+Washington Wizards,101,293,Phoenix Suns,90,424
+Dallas Mavericks,109,949,Boston Celtics,67,416
+Memphis Grizzlies,102,642,Portland Trail Blazers,105,990
+Washington Wizards,88,506,Orlando Magic,84,826
+Indiana Pacers,102,966,Oklahoma City Thunder,106,860
+Orlando Magic,91,734,San Antonio Spurs,76,144
+New York Knicks,65,927,Memphis Grizzlies,89,472
+Portland Trail Blazers,109,308,Charlotte Hornets,94,757
+Milwaukee Bucks,101,232,Charlotte Hornets,96,853
+Toronto Raptors,89,558,Memphis Grizzlies,116,108
+Washington Wizards,78,977,Portland Trail Blazers,111,233
+Detroit Pistons,68,196,Minnesota Timberwolves,80,584
+New York Knicks,67,622,Dallas Mavericks,102,941
+San Antonio Spurs,77,739,New Orleans Pelicans,97,885
+Los Angeles Lakers,100,894,Houston Rockets,63,266
+Detroit Pistons,71,706,Milwaukee Bucks,62,604
+Detroit Pistons,92,575,Indiana Pacers,76,626
+Dallas Mavericks,109,173,New York Knicks,113,876
+Boston Celtics,119,660,San Antonio Spurs,111,718
+Charlotte Hornets,63,840,Houston Rockets,72,496
+Philadelphia 76ers,109,807,San Antonio Spurs,76,913
+New Orleans Pelicans,112,909,Phoenix Suns,85,765
+Miami Heat,120,165,Los Angeles Lakers,60,190
+San Antonio Spurs,90,607,Houston Rockets,88,147
+San Antonio Spurs,92,522,Phoenix Suns,91,736
+Chicago Bulls,74,831,Utah Jazz,99,719
+Sacramento Kings,74,937,Los Angeles Lakers,108,377
+New York Knicks,83,379,Denver Nuggets,66,955
+Toronto Raptors,84,997,Sacramento Kings,117,606
+Sacramento Kings,95,130,Phoenix Suns,111,674
+Orlando Magic,111,138,Charlotte Hornets,113,375
+Utah Jazz,69,735,Indiana Pacers,115,127
+Dallas Mavericks,81,147,Oklahoma City Thunder,88,775
+Dallas Mavericks,66,795,Orlando Magic,76,928
+Cleveland Cavaliers,116,619,Utah Jazz,98,661
+Portland Trail Blazers,80,674,Memphis Grizzlies,114,565
+San Antonio Spurs,95,682,Utah Jazz,62,633
+Atlanta Hawks,62,848,Brooklyn Nets,79,983
+New York Knicks,106,227,New Orleans Pelicans,115,432
+Denver Nuggets,66,533,Cleveland Cavaliers,101,982
+Golden State Warriors,109,580,Denver Nuggets,111,694
+Denver Nuggets,80,951,Philadelphia 76ers,116,526
+Washington Wizards,98,367,Cleveland Cavaliers,73,125
+Detroit Pistons,89,251,San Antonio Spurs,78,300
+Golden State Warriors,79,584,Oklahoma City Thunder,86,286
+Charlotte Hornets,76,599,Cleveland Cavaliers,115,238
+LA Clippers,92,828,Indiana Pacers,117,338
+Oklahoma City Thunder,71,245,Phoenix Suns,69,703
+New Orleans Pelicans,91,497,Denver Nuggets,106,483
+Detroit Pistons,72,678,Charlotte Hornets,89,622
+Toronto Raptors,118,908,Cleveland Cavaliers,103,160
+New York Knicks,106,422,Charlotte Hornets,112,483
+Los Angeles Lakers,77,110,LA Clippers,103,733
+Philadelphia 76ers,70,454,LA Clippers,106,673
+Houston Rockets,117,708,Chicago Bulls,97,685
+Minnesota Timberwolves,98,716,Chicago Bulls,80,822
+LA Clippers,101,879,Dallas Mavericks,80,491
+Phoenix Suns,60,512,Brooklyn Nets,88,662
+Memphis Grizzlies,77,214,New Orleans Pelicans,99,978
+Orlando Magic,100,867,Memphis Grizzlies,90,175
+Utah Jazz,96,763,Cleveland Cavaliers,108,941
+Utah Jazz,99,781,Atlanta Hawks,91,331
+Utah Jazz,63,743,Memphis Grizzlies,117,798
+Boston Celtics,87,554,Memphis Grizzlies,74,731
+Chicago Bulls,113,849,Detroit Pistons,99,340
+Portland Trail Blazers,117,320,Los Angeles Lakers,87,544
+Los Angeles Lakers,87,545,Denver Nuggets,68,858
+Boston Celtics,92,305,Dallas Mavericks,86,931
+Orlando Magic,109,404,Philadelphia 76ers,105,613
+Chicago Bulls,112,436,Memphis Grizzlies,105,829
+Dallas Mavericks,115,722,Phoenix Suns,105,536
+Portland Trail Blazers,64,455,LA Clippers,69,893
+Cleveland Cavaliers,85,974,Dallas Mavericks,97,463
+Phoenix Suns,60,704,Utah Jazz,74,554
+Sacramento Kings,67,506,LA Clippers,119,479
+Houston Rockets,82,806,Los Angeles Lakers,112,679
+Cleveland Cavaliers,97,391,Washington Wizards,119,243
+Utah Jazz,67,732,Portland Trail Blazers,74,294
+Memphis Grizzlies,77,516,Toronto Raptors,62,126
+Sacramento Kings,111,314,Charlotte Hornets,102,789
+Boston Celtics,91,573,Toronto Raptors,95,702
+Charlotte Hornets,69,387,Indiana Pacers,119,771
+Milwaukee Bucks,96,302,Phoenix Suns,117,345
+Washington Wizards,75,447,Dallas Mavericks,90,944
+Miami Heat,96,687,Houston Rockets,61,580
+Portland Trail Blazers,77,933,Denver Nuggets,90,484
+Utah Jazz,86,188,Phoenix Suns,105,344
+Miami Heat,96,236,New York Knicks,69,801
+Atlanta Hawks,99,660,Dallas Mavericks,87,546
+Indiana Pacers,107,905,Detroit Pistons,113,189
+Oklahoma City Thunder,103,313,Minnesota Timberwolves,77,626
+Orlando Magic,69,909,Washington Wizards,117,651
+Cleveland Cavaliers,96,845,Los Angeles Lakers,119,571
+Dallas Mavericks,76,250,Houston Rockets,68,612
+Chicago Bulls,94,693,Los Angeles Lakers,68,315
+Utah Jazz,100,678,Denver Nuggets,98,835
+Philadelphia 76ers,106,962,Washington Wizards,104,251
+Sacramento Kings,95,321,Chicago Bulls,118,779
+Boston Celtics,72,777,Golden State Warriors,119,775
+Chicago Bulls,109,492,Washington Wizards,94,207
+Atlanta Hawks,113,318,Portland Trail Blazers,120,625
+Orlando Magic,71,815,Houston Rockets,92,747
+Phoenix Suns,87,503,Orlando Magic,81,342
+Charlotte Hornets,115,848,Dallas Mavericks,110,1000
+Houston Rockets,81,260,Denver Nuggets,60,962
+Oklahoma City Thunder,79,375,Golden State Warriors,61,410
+Denver Nuggets,66,852,New York Knicks,114,725
+Utah Jazz,65,884,Dallas Mavericks,116,699
+Houston Rockets,103,646,Sacramento Kings,72,979
+Brooklyn Nets,91,331,Minnesota Timberwolves,63,727
+New Orleans Pelicans,115,308,Sacramento Kings,109,187
+Brooklyn Nets,94,130,Houston Rockets,119,247
+Brooklyn Nets,85,293,LA Clippers,97,880
+Charlotte Hornets,107,846,Toronto Raptors,102,508
+Houston Rockets,94,858,LA Clippers,100,744
+Minnesota Timberwolves,104,195,LA Clippers,66,164
+Orlando Magic,93,388,Golden State Warriors,75,965
+Philadelphia 76ers,70,908,Brooklyn Nets,81,237
+Brooklyn Nets,102,512,Oklahoma City Thunder,68,627
+Utah Jazz,99,804,San Antonio Spurs,74,814
+Sacramento Kings,73,858,Boston Celtics,97,890
+Los Angeles Lakers,106,387,Milwaukee Bucks,98,577
+Minnesota Timberwolves,77,368,Dallas Mavericks,109,118
+Phoenix Suns,70,180,Chicago Bulls,120,418
+Phoenix Suns,99,922,Detroit Pistons,111,852
+Detroit Pistons,89,254,Memphis Grizzlies,99,296
+Philadelphia 76ers,60,630,Houston Rockets,68,377
+Boston Celtics,92,830,Indiana Pacers,76,851
+Los Angeles Lakers,101,155,Minnesota Timberwolves,77,641
+Orlando Magic,98,675,Indiana Pacers,110,583
+Oklahoma City Thunder,85,215,Dallas Mavericks,117,730
+Memphis Grizzlies,89,933,Washington Wizards,81,435
+Memphis Grizzlies,106,283,Atlanta Hawks,98,494
+Sacramento Kings,70,245,New Orleans Pelicans,91,580
+Sacramento Kings,119,228,Milwaukee Bucks,115,837
+Atlanta Hawks,81,312,Oklahoma City Thunder,64,255
+Golden State Warriors,85,274,Atlanta Hawks,105,580
+Phoenix Suns,80,552,Cleveland Cavaliers,81,740
+Memphis Grizzlies,71,974,Denver Nuggets,103,832
+Indiana Pacers,89,248,Orlando Magic,97,849
+LA Clippers,109,293,Utah Jazz,108,210
+Miami Heat,87,705,Cleveland Cavaliers,93,219
+Phoenix Suns,68,451,Washington Wizards,95,125
+Boston Celtics,83,503,New Orleans Pelicans,92,227
+Toronto Raptors,95,100,Detroit Pistons,119,237
+New York Knicks,62,804,Houston Rockets,80,930
+Utah Jazz,84,772,Oklahoma City Thunder,83,642
+Golden State Warriors,114,976,Portland Trail Blazers,111,775
+Portland Trail Blazers,76,565,Miami Heat,73,952
+Brooklyn Nets,98,743,Golden State Warriors,86,675
+San Antonio Spurs,98,612,Orlando Magic,73,116
+Dallas Mavericks,81,608,Washington Wizards,80,626
+Cleveland Cavaliers,86,937,Atlanta Hawks,83,336
+Memphis Grizzlies,84,578,New York Knicks,60,734
+Detroit Pistons,100,933,Orlando Magic,60,698
+Philadelphia 76ers,98,202,New York Knicks,97,790
+Washington Wizards,89,206,Toronto Raptors,113,835
+Brooklyn Nets,119,456,Milwaukee Bucks,62,465
+Miami Heat,64,978,Boston Celtics,106,351
+Utah Jazz,81,106,New Orleans Pelicans,120,988
+Los Angeles Lakers,102,124,Portland Trail Blazers,65,228
+San Antonio Spurs,116,678,Toronto Raptors,113,866
+Charlotte Hornets,113,742,Miami Heat,106,104
+Indiana Pacers,62,810,Cleveland Cavaliers,66,388
+Minnesota Timberwolves,68,400,Portland Trail Blazers,86,664
+Oklahoma City Thunder,80,165,Sacramento Kings,82,475
+New Orleans Pelicans,83,396,Atlanta Hawks,116,395
+Washington Wizards,63,444,Detroit Pistons,115,228
+San Antonio Spurs,76,341,Oklahoma City Thunder,70,296
+New Orleans Pelicans,91,249,Miami Heat,79,612
+Phoenix Suns,110,617,Minnesota Timberwolves,116,791
+Los Angeles Lakers,60,170,Philadelphia 76ers,117,805
+Minnesota Timberwolves,64,514,Detroit Pistons,102,218
+San Antonio Spurs,118,732,New York Knicks,64,153
+Washington Wizards,80,742,Philadelphia 76ers,68,985
+Brooklyn Nets,91,717,Miami Heat,69,253
+Memphis Grizzlies,82,308,Dallas Mavericks,115,752
+New York Knicks,74,707,Philadelphia 76ers,73,542
+Orlando Magic,83,239,Oklahoma City Thunder,88,817
+New Orleans Pelicans,69,924,San Antonio Spurs,84,872
+Chicago Bulls,65,576,Minnesota Timberwolves,85,262
+Orlando Magic,78,685,Boston Celtics,82,123
+Cleveland Cavaliers,70,422,Sacramento Kings,93,683
+Sacramento Kings,72,164,Houston Rockets,109,908
+Minnesota Timberwolves,77,286,Houston Rockets,78,510
+Cleveland Cavaliers,119,911,Houston Rockets,71,400
+Philadelphia 76ers,112,212,Boston Celtics,79,956
+New Orleans Pelicans,70,570,Dallas Mavericks,60,492
+Minnesota Timberwolves,101,576,Toronto Raptors,65,986
+San Antonio Spurs,102,957,Detroit Pistons,94,972
+Milwaukee Bucks,60,719,Portland Trail Blazers,99,917
+Minnesota Timberwolves,94,326,Utah Jazz,87,844
+Boston Celtics,102,803,Cleveland Cavaliers,108,627
+Phoenix Suns,79,671,Golden State Warriors,105,251
+Indiana Pacers,118,977,San Antonio Spurs,97,166
+Houston Rockets,74,107,Cleveland Cavaliers,77,809
+Sacramento Kings,105,103,New York Knicks,80,814
+Cleveland Cavaliers,81,453,Golden State Warriors,75,202
+Toronto Raptors,68,317,New York Knicks,75,952
+Atlanta Hawks,108,848,New Orleans Pelicans,102,936
+Detroit Pistons,64,916,Cleveland Cavaliers,97,499
+Indiana Pacers,94,236,Charlotte Hornets,95,480
+New York Knicks,88,420,Cleveland Cavaliers,94,108
+Brooklyn Nets,118,597,Charlotte Hornets,94,973
+Miami Heat,69,839,Philadelphia 76ers,120,410
+Charlotte Hornets,88,676,San Antonio Spurs,120,377
+Orlando Magic,120,768,Detroit Pistons,67,629
+New York Knicks,91,813,Orlando Magic,119,162
+Portland Trail Blazers,114,102,Washington Wizards,67,445
+Los Angeles Lakers,82,176,Boston Celtics,83,863
+Washington Wizards,107,427,Indiana Pacers,68,494
+Golden State Warriors,99,780,Phoenix Suns,102,693
+Memphis Grizzlies,62,202,Brooklyn Nets,72,315
+Milwaukee Bucks,106,235,Cleveland Cavaliers,82,737
+Miami Heat,96,352,Portland Trail Blazers,90,734
+San Antonio Spurs,87,619,Philadelphia 76ers,110,189
+Chicago Bulls,102,812,Orlando Magic,118,655
+New York Knicks,109,449,Utah Jazz,83,643
+Indiana Pacers,88,446,Utah Jazz,115,646
+Sacramento Kings,72,674,Utah Jazz,60,959
+Atlanta Hawks,118,674,New York Knicks,73,885
+Atlanta Hawks,61,713,Los Angeles Lakers,89,935
+Charlotte Hornets,114,202,Washington Wizards,105,768
+Chicago Bulls,108,696,LA Clippers,85,435
+LA Clippers,91,477,New York Knicks,113,133
+Chicago Bulls,100,837,Brooklyn Nets,107,451
+Memphis Grizzlies,63,757,Philadelphia 76ers,109,160
+Golden State Warriors,94,660,Cleveland Cavaliers,73,341
+Denver Nuggets,72,682,LA Clippers,82,322
+Phoenix Suns,73,319,Memphis Grizzlies,93,930
+Toronto Raptors,84,967,Orlando Magic,70,126
+Toronto Raptors,104,420,New Orleans Pelicans,117,883
+Boston Celtics,90,982,Oklahoma City Thunder,100,968
+Utah Jazz,108,112,Toronto Raptors,98,234
+Portland Trail Blazers,97,989,New Orleans Pelicans,83,593
+Orlando Magic,88,133,Minnesota Timberwolves,81,768
+Cleveland Cavaliers,94,215,Miami Heat,91,177
+Los Angeles Lakers,111,957,Chicago Bulls,73,677
+San Antonio Spurs,117,340,Los Angeles Lakers,100,932
+Milwaukee Bucks,86,337,Memphis Grizzlies,120,932
+Philadelphia 76ers,110,956,Orlando Magic,111,466
+Portland Trail Blazers,81,815,Oklahoma City Thunder,71,409
+Denver Nuggets,80,914,Toronto Raptors,61,472
+Milwaukee Bucks,112,900,Philadelphia 76ers,87,471
+Los Angeles Lakers,89,106,Dallas Mavericks,61,658
+Sacramento Kings,101,995,Cleveland Cavaliers,108,565
+Memphis Grizzlies,66,898,Orlando Magic,94,766
+Philadelphia 76ers,108,567,Golden State Warriors,98,466
+Oklahoma City Thunder,101,479,Washington Wizards,64,599
+Oklahoma City Thunder,69,746,Indiana Pacers,83,792
+Minnesota Timberwolves,114,351,Memphis Grizzlies,68,927
+Miami Heat,119,900,Milwaukee Bucks,97,343
+Orlando Magic,80,428,Phoenix Suns,66,356
+Washington Wizards,95,447,Boston Celtics,83,819
+LA Clippers,68,388,Oklahoma City Thunder,97,521
+New Orleans Pelicans,107,333,Washington Wizards,83,909
+San Antonio Spurs,83,491,Minnesota Timberwolves,109,617
+Denver Nuggets,78,565,Sacramento Kings,92,441
+Philadelphia 76ers,118,428,Chicago Bulls,96,282
+Charlotte Hornets,79,713,New York Knicks,72,720
+Brooklyn Nets,63,784,Sacramento Kings,79,953
+Toronto Raptors,120,124,Minnesota Timberwolves,88,650
+Milwaukee Bucks,116,496,Utah Jazz,61,761
+Brooklyn Nets,72,138,Los Angeles Lakers,116,800
+Milwaukee Bucks,99,232,Boston Celtics,112,716
+Boston Celtics,62,111,Chicago Bulls,93,221
+New York Knicks,63,964,Atlanta Hawks,83,388
+Charlotte Hornets,90,361,Boston Celtics,104,764
+Minnesota Timberwolves,93,657,Golden State Warriors,77,264
+Memphis Grizzlies,90,422,LA Clippers,97,508
+Golden State Warriors,110,673,Washington Wizards,101,683
+LA Clippers,115,604,Sacramento Kings,80,224
+Atlanta Hawks,92,342,Houston Rockets,107,778
+Cleveland Cavaliers,110,990,Detroit Pistons,105,967
+Atlanta Hawks,84,376,Philadelphia 76ers,114,128
+San Antonio Spurs,91,847,Boston Celtics,75,952
+Indiana Pacers,78,703,Chicago Bulls,76,463
+Houston Rockets,60,934,Atlanta Hawks,85,912
+Miami Heat,78,570,Sacramento Kings,67,280
+Boston Celtics,67,396,Atlanta Hawks,100,865
+Utah Jazz,88,423,Boston Celtics,77,786
+Sacramento Kings,120,422,Oklahoma City Thunder,67,263
+Minnesota Timberwolves,95,318,Miami Heat,84,638
+Milwaukee Bucks,70,393,Orlando Magic,104,354
+Charlotte Hornets,117,237,Atlanta Hawks,70,541
+Golden State Warriors,109,292,Houston Rockets,120,592
+Orlando Magic,92,665,LA Clippers,97,289
+Utah Jazz,62,450,Los Angeles Lakers,61,295
+Minnesota Timberwolves,66,407,Cleveland Cavaliers,113,625
+Detroit Pistons,78,729,Phoenix Suns,114,929
+Washington Wizards,109,130,Miami Heat,67,852
+Milwaukee Bucks,102,248,New Orleans Pelicans,74,625
+Golden State Warriors,60,145,Brooklyn Nets,89,146
+Miami Heat,96,100,Dallas Mavericks,85,660
+Washington Wizards,99,880,Minnesota Timberwolves,96,477
+Atlanta Hawks,115,157,Orlando Magic,100,729
+Philadelphia 76ers,80,820,New Orleans Pelicans,66,517
+Milwaukee Bucks,97,619,Toronto Raptors,76,717
+Charlotte Hornets,82,516,Sacramento Kings,109,891
+Charlotte Hornets,84,115,Utah Jazz,107,789
+Atlanta Hawks,109,319,Detroit Pistons,112,875
+Washington Wizards,82,812,Charlotte Hornets,68,141
+San Antonio Spurs,106,174,Brooklyn Nets,72,834
+Los Angeles Lakers,120,189,Detroit Pistons,91,823
+Sacramento Kings,70,490,Orlando Magic,90,414
+Chicago Bulls,101,764,Oklahoma City Thunder,84,942
+Minnesota Timberwolves,107,488,Brooklyn Nets,111,988
+Toronto Raptors,106,254,Milwaukee Bucks,96,547
+Oklahoma City Thunder,82,689,Denver Nuggets,81,858
+New York Knicks,92,496,Toronto Raptors,68,678
+Denver Nuggets,99,186,Atlanta Hawks,108,178
+Atlanta Hawks,93,838,Milwaukee Bucks,64,397
+Portland Trail Blazers,76,417,New York Knicks,63,798
+LA Clippers,61,944,Philadelphia 76ers,77,640
+Atlanta Hawks,120,668,Boston Celtics,72,228
+Miami Heat,113,162,Charlotte Hornets,62,953
+Chicago Bulls,66,768,Philadelphia 76ers,105,205
+New York Knicks,61,491,Boston Celtics,87,700
+Philadelphia 76ers,104,772,Indiana Pacers,99,912
+Washington Wizards,95,836,San Antonio Spurs,68,944
+Golden State Warriors,79,634,Miami Heat,89,955
+New Orleans Pelicans,106,955,Utah Jazz,118,864
+New York Knicks,104,968,Golden State Warriors,87,989
+LA Clippers,94,977,Orlando Magic,88,124
+Miami Heat,114,959,Memphis Grizzlies,116,100
+Charlotte Hornets,96,456,Denver Nuggets,84,588
+Cleveland Cavaliers,106,287,Toronto Raptors,64,537
+Memphis Grizzlies,106,830,Charlotte Hornets,75,854
+Toronto Raptors,88,931,Indiana Pacers,72,851
+Milwaukee Bucks,92,733,Denver Nuggets,90,634
+Miami Heat,97,607,Toronto Raptors,106,911
+Los Angeles Lakers,100,705,Orlando Magic,85,705
+Oklahoma City Thunder,83,135,Milwaukee Bucks,77,461
+Sacramento Kings,83,345,Detroit Pistons,88,808
+Houston Rockets,99,217,Phoenix Suns,70,573
+Denver Nuggets,63,925,Memphis Grizzlies,116,973
+Cleveland Cavaliers,65,554,Philadelphia 76ers,81,169
+Milwaukee Bucks,89,862,Los Angeles Lakers,100,364
+Charlotte Hornets,63,658,New Orleans Pelicans,70,513
+Phoenix Suns,79,943,Houston Rockets,117,585
+Charlotte Hornets,106,242,Los Angeles Lakers,86,244
+Portland Trail Blazers,84,190,Cleveland Cavaliers,62,550
+Los Angeles Lakers,103,514,Miami Heat,88,499
+San Antonio Spurs,86,411,Dallas Mavericks,95,758
+Chicago Bulls,85,882,Indiana Pacers,118,563
+Miami Heat,100,411,Denver Nuggets,118,194
+Oklahoma City Thunder,110,664,Portland Trail Blazers,98,503
+Milwaukee Bucks,97,214,Dallas Mavericks,93,287
+Cleveland Cavaliers,102,867,New York Knicks,82,848
+Memphis Grizzlies,88,491,Minnesota Timberwolves,71,321
+Golden State Warriors,71,550,Los Angeles Lakers,67,510
+Memphis Grizzlies,97,130,Phoenix Suns,85,223
+Detroit Pistons,82,748,Chicago Bulls,95,882
+Toronto Raptors,83,734,Los Angeles Lakers,112,156
+Orlando Magic,79,105,Denver Nuggets,86,969
+Indiana Pacers,107,953,Phoenix Suns,112,205
+Milwaukee Bucks,74,228,Houston Rockets,80,895
+Charlotte Hornets,107,835,Brooklyn Nets,65,737
+Washington Wizards,103,490,Golden State Warriors,109,1000
+Phoenix Suns,61,573,Philadelphia 76ers,71,278
+Boston Celtics,113,134,Milwaukee Bucks,75,744
+New Orleans Pelicans,111,764,Orlando Magic,117,589
+Milwaukee Bucks,61,759,San Antonio Spurs,107,716
+Denver Nuggets,88,343,Utah Jazz,76,142
+Boston Celtics,93,798,Minnesota Timberwolves,94,695
+New York Knicks,100,494,Washington Wizards,79,653
+Sacramento Kings,63,639,Portland Trail Blazers,114,915
+Golden State Warriors,75,785,New Orleans Pelicans,81,453
+Houston Rockets,80,978,Washington Wizards,90,662
+Los Angeles Lakers,109,553,Cleveland Cavaliers,104,331
+Sacramento Kings,113,660,Denver Nuggets,91,306
+Minnesota Timberwolves,60,371,Boston Celtics,86,752
+Phoenix Suns,68,332,Toronto Raptors,66,339
+Denver Nuggets,75,142,Detroit Pistons,60,707
+LA Clippers,63,553,Denver Nuggets,93,457
+Sacramento Kings,110,360,Philadelphia 76ers,63,724
+Minnesota Timberwolves,105,647,Los Angeles Lakers,103,435
+Chicago Bulls,64,513,Denver Nuggets,88,723
+Golden State Warriors,109,848,Utah Jazz,114,475
+Utah Jazz,109,255,LA Clippers,81,237
+Brooklyn Nets,62,497,Memphis Grizzlies,68,324
+Detroit Pistons,97,540,Golden State Warriors,61,343
+Oklahoma City Thunder,65,811,Boston Celtics,112,191
+Philadelphia 76ers,107,858,Milwaukee Bucks,80,911
+Washington Wizards,94,975,New Orleans Pelicans,95,664
+Golden State Warriors,75,226,Orlando Magic,61,737
+Boston Celtics,115,354,Washington Wizards,104,852
+New York Knicks,114,511,Detroit Pistons,115,247
+Cleveland Cavaliers,71,620,Chicago Bulls,106,660
+New Orleans Pelicans,98,520,Brooklyn Nets,82,258
+New Orleans Pelicans,101,567,LA Clippers,97,914
+Indiana Pacers,61,731,Sacramento Kings,67,928
+New York Knicks,75,827,San Antonio Spurs,105,586
+Memphis Grizzlies,87,121,Chicago Bulls,69,994
+Los Angeles Lakers,98,891,Oklahoma City Thunder,91,841
+Atlanta Hawks,74,730,Utah Jazz,83,184
+New York Knicks,82,997,Sacramento Kings,74,927
+Sacramento Kings,112,114,Toronto Raptors,76,912
+Philadelphia 76ers,86,529,Minnesota Timberwolves,62,294
+Cleveland Cavaliers,100,574,New Orleans Pelicans,90,932
+New York Knicks,92,962,Los Angeles Lakers,79,101
+Philadelphia 76ers,102,712,Toronto Raptors,111,516
+Phoenix Suns,98,588,Boston Celtics,72,487
+Los Angeles Lakers,119,429,New York Knicks,90,318
+Miami Heat,106,705,Chicago Bulls,101,129
+Miami Heat,100,835,Utah Jazz,95,125
+Washington Wizards,120,542,Oklahoma City Thunder,118,872
+New Orleans Pelicans,67,759,Indiana Pacers,109,563
+Portland Trail Blazers,74,975,Dallas Mavericks,91,965
+Denver Nuggets,104,985,Houston Rockets,99,778
+Portland Trail Blazers,88,587,San Antonio Spurs,102,415
+Los Angeles Lakers,74,409,Atlanta Hawks,76,164
+Golden State Warriors,93,916,Indiana Pacers,84,509
+Atlanta Hawks,89,465,Miami Heat,78,429
+San Antonio Spurs,119,658,Washington Wizards,69,272
+Boston Celtics,98,729,Orlando Magic,114,284
+Brooklyn Nets,97,682,New Orleans Pelicans,76,705
+Detroit Pistons,79,186,LA Clippers,66,613
+Brooklyn Nets,74,792,Indiana Pacers,94,332
+Miami Heat,116,803,Oklahoma City Thunder,69,349
+Atlanta Hawks,74,360,Indiana Pacers,70,160
+Portland Trail Blazers,61,255,Houston Rockets,115,474
+Detroit Pistons,75,860,Denver Nuggets,73,256
+Memphis Grizzlies,113,793,Cleveland Cavaliers,70,593
+LA Clippers,75,164,Milwaukee Bucks,116,770
+Minnesota Timberwolves,110,290,Charlotte Hornets,92,731
+Phoenix Suns,84,573,Indiana Pacers,88,787
+Cleveland Cavaliers,69,299,Orlando Magic,85,784
+Boston Celtics,64,868,Sacramento Kings,78,626
+Detroit Pistons,100,838,Atlanta Hawks,69,758
+Toronto Raptors,84,249,Houston Rockets,120,363
+Toronto Raptors,113,531,Charlotte Hornets,80,292
+Boston Celtics,65,474,Detroit Pistons,93,831
+New York Knicks,120,265,Portland Trail Blazers,117,877
+Los Angeles Lakers,106,274,Sacramento Kings,62,414
+Minnesota Timberwolves,86,143,Atlanta Hawks,81,585
+Portland Trail Blazers,92,304,Sacramento Kings,75,954
+Washington Wizards,66,890,New York Knicks,90,739
+Los Angeles Lakers,89,904,Washington Wizards,116,543
+Brooklyn Nets,79,429,Dallas Mavericks,89,387
+Milwaukee Bucks,116,785,Miami Heat,80,750
+Philadelphia 76ers,60,465,Miami Heat,100,345
+Brooklyn Nets,76,201,Portland Trail Blazers,105,796
+Dallas Mavericks,115,666,Milwaukee Bucks,76,822
+Cleveland Cavaliers,76,201,Phoenix Suns,109,428
+Philadelphia 76ers,81,126,Atlanta Hawks,115,792
+Orlando Magic,73,682,Miami Heat,106,824
+Orlando Magic,115,341,Sacramento Kings,85,435
+Golden State Warriors,72,337,Sacramento Kings,85,451
+Denver Nuggets,108,562,Minnesota Timberwolves,80,434
+Detroit Pistons,96,463,Miami Heat,91,307
+New York Knicks,72,416,Milwaukee Bucks,67,367
+Sacramento Kings,95,493,Golden State Warriors,96,757
+Philadelphia 76ers,113,583,Dallas Mavericks,97,514
+Minnesota Timberwolves,94,609,Sacramento Kings,106,999
+Chicago Bulls,62,343,Phoenix Suns,80,375
+New Orleans Pelicans,76,202,Oklahoma City Thunder,109,862
+LA Clippers,72,805,Memphis Grizzlies,60,450
+Atlanta Hawks,63,186,Phoenix Suns,74,689
+Washington Wizards,80,354,Brooklyn Nets,114,732
+Toronto Raptors,106,606,Washington Wizards,88,902
+New York Knicks,102,632,Brooklyn Nets,73,773
+Dallas Mavericks,71,661,Utah Jazz,100,465
+Golden State Warriors,104,648,Dallas Mavericks,64,608
+LA Clippers,113,232,New Orleans Pelicans,63,472
+Oklahoma City Thunder,68,429,Brooklyn Nets,95,787
+Boston Celtics,60,154,Utah Jazz,88,277
+San Antonio Spurs,72,902,Chicago Bulls,96,972
+Oklahoma City Thunder,60,885,Toronto Raptors,61,132
+Oklahoma City Thunder,103,541,Utah Jazz,84,325
+Toronto Raptors,76,306,Philadelphia 76ers,73,857
+Portland Trail Blazers,65,143,Philadelphia 76ers,116,931
+LA Clippers,105,603,Houston Rockets,120,872
+Memphis Grizzlies,115,606,Houston Rockets,112,710
+Indiana Pacers,81,128,Denver Nuggets,80,462
+Houston Rockets,72,249,Milwaukee Bucks,120,962
+Utah Jazz,85,429,Orlando Magic,104,497
+Chicago Bulls,113,889,Houston Rockets,115,493
+Dallas Mavericks,103,621,San Antonio Spurs,71,808
+New Orleans Pelicans,107,666,Toronto Raptors,120,902
+Sacramento Kings,67,852,Memphis Grizzlies,78,517
+Houston Rockets,98,390,New York Knicks,118,700
+Brooklyn Nets,112,997,New York Knicks,99,824
+Chicago Bulls,92,703,Atlanta Hawks,108,570
+Washington Wizards,119,556,Sacramento Kings,65,985
+Oklahoma City Thunder,112,294,New York Knicks,102,323
+Brooklyn Nets,69,704,Atlanta Hawks,65,195
+Charlotte Hornets,91,663,Oklahoma City Thunder,113,165
+Indiana Pacers,61,437,Portland Trail Blazers,65,153
+Charlotte Hornets,93,668,Memphis Grizzlies,103,617
+Orlando Magic,87,962,Los Angeles Lakers,75,596
+Utah Jazz,118,177,Philadelphia 76ers,79,190
+Minnesota Timberwolves,74,906,San Antonio Spurs,120,518
+Brooklyn Nets,107,807,Phoenix Suns,70,741
+Detroit Pistons,117,854,Toronto Raptors,74,411
+Utah Jazz,120,567,Washington Wizards,65,753
+Los Angeles Lakers,117,392,Phoenix Suns,91,535
+Milwaukee Bucks,108,493,Minnesota Timberwolves,103,582
+Boston Celtics,61,173,New York Knicks,90,902
+Detroit Pistons,111,975,Philadelphia 76ers,89,833
+Philadelphia 76ers,81,990,Los Angeles Lakers,75,267
+Golden State Warriors,79,698,Chicago Bulls,96,629
+Utah Jazz,81,968,Miami Heat,72,988
+Houston Rockets,86,426,Minnesota Timberwolves,60,601
+Philadelphia 76ers,60,700,Sacramento Kings,67,251
+LA Clippers,61,446,Washington Wizards,74,854
+Houston Rockets,82,638,Detroit Pistons,107,207
+San Antonio Spurs,77,741,LA Clippers,117,614
+Portland Trail Blazers,76,551,Orlando Magic,89,678
+Sacramento Kings,65,299,Minnesota Timberwolves,100,142
+New York Knicks,105,962,Oklahoma City Thunder,87,252
+Indiana Pacers,117,305,Milwaukee Bucks,87,751
+Washington Wizards,116,891,Denver Nuggets,65,590
+Miami Heat,94,281,Brooklyn Nets,103,756
+Orlando Magic,60,462,Milwaukee Bucks,108,225
+Denver Nuggets,110,681,Brooklyn Nets,105,613
+Denver Nuggets,81,868,Portland Trail Blazers,85,868
+Milwaukee Bucks,99,805,New York Knicks,83,117
+Indiana Pacers,118,420,Brooklyn Nets,92,465
+New Orleans Pelicans,91,953,Philadelphia 76ers,115,977
+Miami Heat,63,265,Phoenix Suns,101,915
+Memphis Grizzlies,108,237,Milwaukee Bucks,81,510
+San Antonio Spurs,77,373,Miami Heat,120,996
+Miami Heat,92,583,New Orleans Pelicans,66,441
+Houston Rockets,119,253,Memphis Grizzlies,69,240
+San Antonio Spurs,109,726,Sacramento Kings,75,933
+Toronto Raptors,98,337,Oklahoma City Thunder,97,361
+Chicago Bulls,101,255,Charlotte Hornets,80,919
+Washington Wizards,72,698,Chicago Bulls,61,350
+Atlanta Hawks,95,565,Minnesota Timberwolves,104,103
+Cleveland Cavaliers,88,774,Minnesota Timberwolves,78,464
+Utah Jazz,90,168,Houston Rockets,118,795
+Los Angeles Lakers,113,695,San Antonio Spurs,60,603
+LA Clippers,74,893,Cleveland Cavaliers,101,216
+LA Clippers,117,281,Detroit Pistons,112,607
+Sacramento Kings,109,288,Dallas Mavericks,76,508
+Chicago Bulls,100,496,San Antonio Spurs,115,981
+Houston Rockets,81,893,Utah Jazz,119,905
+Phoenix Suns,102,519,LA Clippers,77,394
+Cleveland Cavaliers,71,125,Charlotte Hornets,111,264
+Indiana Pacers,93,651,Washington Wizards,111,148
+Dallas Mavericks,97,300,Atlanta Hawks,60,274
+Los Angeles Lakers,87,982,Charlotte Hornets,89,994
+Brooklyn Nets,93,787,San Antonio Spurs,83,258
+Utah Jazz,98,265,Detroit Pistons,108,409
+Houston Rockets,88,153,San Antonio Spurs,96,116
+Detroit Pistons,95,661,New York Knicks,116,700
+Los Angeles Lakers,67,561,Indiana Pacers,104,383
+Houston Rockets,69,674,Indiana Pacers,68,912
+Detroit Pistons,79,894,Washington Wizards,107,215
+Denver Nuggets,93,378,Chicago Bulls,119,590
+Oklahoma City Thunder,75,356,Memphis Grizzlies,86,231
+Phoenix Suns,96,421,Los Angeles Lakers,81,768
+Miami Heat,82,225,San Antonio Spurs,97,899
+Toronto Raptors,81,478,Phoenix Suns,71,716
+Oklahoma City Thunder,93,600,Miami Heat,114,199
+Boston Celtics,91,176,Phoenix Suns,68,634
+Cleveland Cavaliers,86,245,Portland Trail Blazers,105,922
+Detroit Pistons,82,519,Portland Trail Blazers,70,887
+Washington Wizards,76,926,Memphis Grizzlies,89,702
+Houston Rockets,61,405,Miami Heat,114,696
+Brooklyn Nets,119,858,Orlando Magic,73,265
+Washington Wizards,85,220,LA Clippers,63,468
+Chicago Bulls,99,961,Sacramento Kings,103,305
+Charlotte Hornets,92,414,Minnesota Timberwolves,116,673
+Sacramento Kings,78,653,Atlanta Hawks,90,540
+Toronto Raptors,100,539,Chicago Bulls,91,548
+Philadelphia 76ers,115,777,Cleveland Cavaliers,104,967
+San Antonio Spurs,92,821,Cleveland Cavaliers,76,902
+Portland Trail Blazers,69,953,Phoenix Suns,97,886
+Dallas Mavericks,78,944,Chicago Bulls,119,860
+Detroit Pistons,119,551,Utah Jazz,70,345
+Portland Trail Blazers,82,887,Minnesota Timberwolves,106,541
+Detroit Pistons,102,449,Sacramento Kings,120,522
+Brooklyn Nets,93,754,Utah Jazz,92,247
+Orlando Magic,76,250,Portland Trail Blazers,105,257
+Charlotte Hornets,84,883,Golden State Warriors,98,475
+Cleveland Cavaliers,84,763,Boston Celtics,111,883
+Houston Rockets,98,420,Brooklyn Nets,73,588
+Indiana Pacers,99,302,Los Angeles Lakers,103,693
+Atlanta Hawks,66,368,Golden State Warriors,101,955
+Utah Jazz,101,751,Golden State Warriors,105,997
+Los Angeles Lakers,64,670,New Orleans Pelicans,116,359
+Dallas Mavericks,108,658,Sacramento Kings,73,651
+Sacramento Kings,117,494,Indiana Pacers,102,859
